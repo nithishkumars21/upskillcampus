@@ -48,4 +48,4 @@ python Prediction_of_Agriculture_Crop_Production_in_India.py
 Top features: Cost of Cultivation C2 (48.3%), Cost of Cultivation A2+FL (38.1%), Crop (12.2%), State (1.4%).
 
 ## Report
-Full report with methodology, EDA charts, and results: `Crop_Yield_Prediction_Final_Report.pdf` / `.docx`.
+Full report with methodology, EDA charts, and results: `Crop_Yield_Prediction_Final_Report.pdf`.
